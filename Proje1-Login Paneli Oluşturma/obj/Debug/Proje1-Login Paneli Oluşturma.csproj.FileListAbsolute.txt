@@ -1,0 +1,10 @@
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\Proje1-Login Paneli Oluşturma\Proje1-Login Paneli Oluşturma\bin\Debug\Proje1-Login Paneli Oluşturma.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\Proje1-Login Paneli Oluşturma\Proje1-Login Paneli Oluşturma\bin\Debug\Proje1-Login Paneli Oluşturma.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\Proje1-Login Paneli Oluşturma\Proje1-Login Paneli Oluşturma\bin\Debug\Proje1-Login Paneli Oluşturma.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\Proje1-Login Paneli Oluşturma\Proje1-Login Paneli Oluşturma\obj\Debug\Proje1-Login Paneli Oluşturma.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\Proje1-Login Paneli Oluşturma\Proje1-Login Paneli Oluşturma\obj\Debug\Proje1_Login_Paneli_Oluşturma.Form1.resources
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\Proje1-Login Paneli Oluşturma\Proje1-Login Paneli Oluşturma\obj\Debug\Proje1_Login_Paneli_Oluşturma.Properties.Resources.resources
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\Proje1-Login Paneli Oluşturma\Proje1-Login Paneli Oluşturma\obj\Debug\Proje1-Login Paneli Oluşturma.csproj.GenerateResource.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\Proje1-Login Paneli Oluşturma\Proje1-Login Paneli Oluşturma\obj\Debug\Proje1-Login Paneli Oluşturma.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\Proje1-Login Paneli Oluşturma\Proje1-Login Paneli Oluşturma\obj\Debug\Proje1-Login Paneli Oluşturma.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\Proje1-Login Paneli Oluşturma\Proje1-Login Paneli Oluşturma\obj\Debug\Proje1-Login Paneli Oluşturma.pdb
